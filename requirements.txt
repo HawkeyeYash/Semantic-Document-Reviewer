@@ -1,0 +1,8 @@
+pandas
+llama-index
+faiss-cpu
+python-dotenv
+llama-index-vector-stores-faiss
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+pdfplumber
